@@ -73,11 +73,58 @@ The game emphasizes exploration, puzzle-solving, and survival under pressure.
 
 ---
 
-## Future Improvements
-- Additional puzzle mechanics.  
-- More varied ghost AI behaviors.  
-- Expanded environments and escape routes.  
-- Sound design for greater immersion.  
+## 💻 System Requirements
+
+### Windows
+- OS: Windows 10 or later
+- Processor: Intel i5 or equivalent
+- RAM: 8 GB
+- Graphics: DirectX 11 compatible GPU
+- Storage: ~1 GB available space
+
+---
+
+## ▶️ How to Run the Game (Windows)
+
+1. Download the ZIP file from the repository.
+2. Extract the ZIP file (do **not** run the game from inside the ZIP).
+3. Open the extracted folder.
+4. Double-click: GhostGame.exe
+
+⚠️ Make sure the `GhostGame_Data` folder is in the same directory as the `.exe` file.
+
+---
+
+## 🛠 How to Open the Project in Unity
+
+If you want to edit or explore the project:
+
+1. Install the correct Unity version used for development.
+2. Open **Unity Hub**.
+3. Click **Add Project**.
+4. Select the extracted project folder.
+5. Open the project.
+
+> Note: Unity may re-import assets on first launch.
+
+---
+
+## 🎯 Controls
+
+- **WASD** – Move  
+- **Mouse** – Look around  
+- **Left Click** – Interact  
+- **Shift** – Sprint  
+- **Esc** – Pause  
+
+---
+
+## 📁 Project Structure
+
+- `Assets/` – Game scripts, scenes, models, audio, and prefabs  
+- `ProjectSettings/` – Unity configuration files  
+- `GhostGame.exe` – Playable build  
+- `GhostGame_Data/` – Required game data files  
 
 ---
 
