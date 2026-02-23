@@ -4,7 +4,7 @@
 Ghost Escape Room is a **first-person horror puzzle escape room game**.  
 You play as an office worker who overslept and finds themselves locked inside the building.  
 To escape, you must uncover clues, collect tools, and solve puzzles — all while avoiding a deadly ghost.  
-Check out this short video that [displays](https://drive.google.com/file/d/1319GLbYW5_G8DvItUG_Tuy8MeoAf6eVS/view?usp=sharing) the gameplay! 
+Check out this [video](https://drive.google.com/file/d/1319GLbYW5_G8DvItUG_Tuy8MeoAf6eVS/view?usp=sharing) that displays some of the gameplay! 
 
 ## [Link to Game Files](https://drive.google.com/file/d/1eMjn9RdXzVpOdtdSqfqwnfNwNxEeNzsc/view?usp=drive_link)  
 
